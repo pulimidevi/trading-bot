@@ -1,0 +1,4 @@
+2026-04-21 12:15:38,499 - INFO - Request: BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-21 12:15:38,499 - INFO - Response: {'orderId': 450601, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 'market price'}
+2026-04-21 12:16:52,849 - INFO - Request: BTCUSDT, SELL, LIMIT, 0.001, 60000.0
+2026-04-21 12:16:52,849 - INFO - Response: {'orderId': 445977, 'status': 'NEW', 'executedQty': 0.001, 'avgPrice': 60000.0}
